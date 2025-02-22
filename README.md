@@ -1,6 +1,6 @@
 # 🌌 Welcome to My Digital Universe! 🌌
 
-Hi, I’m **[Your Name]**, a curious explorer in the realms of **AI/ML** and **IoT**. I build intelligent systems that bridge the gap between the physical and digital worlds. Think of me as a modern-day alchemist—turning data into gold and devices into geniuses. 🧙‍♂️✨
+Hi, I’m **[Mohammad Shahanwaz]**, a curious explorer of **AI/ML** and **IoT**. I build intelligent systems that bridge the gap between the physical and digital worlds. Think of me as a modern-day alchemist—turning data into gold and devices into geniuses. 🧙‍♂️✨
 
 ---
 
