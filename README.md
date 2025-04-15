@@ -1,52 +1,19 @@
-# 🌌 Welcome to My Digital Universe! 🌌
+# Hi, I'm Mohammad Shahnawaz 👋
 
-Hi, I’m **[Mohammad Shahanwaz]**, a curious explorer of **AI/ML** and **IoT**. I build intelligent systems that bridge the gap between the physical and digital worlds. Think of me as a modern-day alchemist—turning data into gold and devices into geniuses. 🧙‍♂️✨
+I'm a  Machine Learning enthusiast and full stack developer with a strong foundation in Python, Javascript, and data analysis. I enjoy building AI-powered applications that solve real-world problems.
 
----
+### 🔧 Skills
+- Python, C/C++, SQL, JavaScript  
+- TensorFlow, Scikit-learn, Pandas, NumPy  
+- Flask, Django, Git, Jupyter Notebook  
 
-## 🚀 What I Do
+### 🚀 Projects
+- [Predictive Irrigation System](https://github.com/Mshahnawaz1) – ML-based system to optimize water usage  
+- [Handwritten Digit Recognition](https://github.com/Mshahnawaz1/Hand-written-digit-Recognition) – 98.8% accurate CNN model  
+- [Movie Recommendation System](https://github.com/Mshahnawaz1/movie-recommendation) – Content-based filtering  
+- [Grocio](https://github.com/Mshahnawaz1/Grocio) – Grocery list manager web app  
 
-- 🤖 **AI/ML Wizardry**: Crafting neural networks, predictive models, and AI-driven magic.
-- 🌐 **IoT Sorcery**: Designing smart devices, sensors, and connected ecosystems.
-- ⚡ **Fusion of AI + IoT**: Creating intelligent systems that think, learn, and act.
-
----
-
-## 🔥 Featured Projects
-
-1. **Smart Home Brain**: An IoT + ML-powered system that learns your habits to optimize energy and security. 🏠✨
-2. **Predictive Maintenance Oracle**: An AI model that predicts IoT device failures before they happen. 🔮⚙️
-3. **AI Weather Prophet**: An IoT device that predicts weather patterns using real-time environmental data. 🌦️📡
-
----
-
-## 🛠️ My Toolkit
-
-- **Languages**: Python, C++, JavaScript
-- **AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **IoT Platforms**: Arduino, Raspberry Pi, ESP32
-- **Cloud Services**: AWS IoT, Google Cloud IoT, Azure IoT
-- **Visualization**: Matplotlib, Seaborn, Tableau
-
----
-
-## 🌱 Currently Exploring
-
-- **Reinforcement Learning**: Teaching AI to learn through interaction. 🎮
-- **5G + IoT**: Exploring how 5G can supercharge IoT applications. 📶
-
----
-
-## 🤝 Let’s Collaborate!
-
-I’m always open to collaborating on exciting projects or discussing groundbreaking ideas. If you’re working on something cool in AI, ML, or IoT, let’s connect and create something extraordinary!
-
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mshahnawaz1&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api/?username=Mshahnawaz1&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=00000000)
+### 📫 Connect
+- [Portfolio](https://mshahnawaz1.github.io/Portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/mshahnawaz1/)
