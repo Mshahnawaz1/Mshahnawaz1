@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Shahnawaz 👋
+# Hi, I'm Mohammad Shahnawaz 👋 ![Profile Views](https://komarev.com/ghpvc/?username=mshahnawaz1)
 
 I'm a  Machine Learning enthusiast and full stack developer with a strong foundation in Python, Javascript, and data analysis. I enjoy building AI-powered applications that solve real-world problems.
 
@@ -9,7 +9,6 @@ I'm a  Machine Learning enthusiast and full stack developer with a strong founda
 
 ### 🚀 Projects
 - [Predictive Irrigation System](https://github.com/Mshahnawaz1) – ML-based system to optimize water usage  
-- [Handwritten Digit Recognition](https://github.com/Mshahnawaz1/Hand-written-digit-Recognition) – 98.8% accurate CNN model  
 - [Movie Recommendation System](https://github.com/Mshahnawaz1/movie-recommendation) – Content-based filtering  
 - [Grocio](https://github.com/Mshahnawaz1/Grocio) – Grocery list manager web app  
 
