@@ -31,9 +31,6 @@
 ---
 
 ### 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mshahnawaz1?cardType=level&theme=radical&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mshahnawaz1/Mshahnawaz1/output/pacman-contribution-graph-dark.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mshahnawaz1/Mshahnawaz1/output/pacman-contribution-graph.svg" width="100%">
