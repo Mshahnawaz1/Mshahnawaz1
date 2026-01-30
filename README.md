@@ -10,6 +10,7 @@
 
 ## ⭐ Featured Projects
 * **Medai:**(Ongoing) Agentic chatbot for reducing the friction of appointment booking with email notification.[GitHub](https://github.com/mshahnawaz1/Agentic-appointment-booking)
+* **Robustness of YOLOv8n model** (Research Work ongoing): Ananlyzing the robustness of YOLOv8n model over different noise conditions for edge devices. [GitHub](https://github.com/Mshahnawaz1/Robustness-of-Yolo8n-Model) 
 * **SmartLearn:** RAG-based learning assistant using Gemini + ChromaDB.[GitHub](https://github.com/Mshahnawaz1/Rag-agent-for-document)
 * **Irrigo:** ML-powered smart irrigation system — **Top 25 Hackathon National Finalist** .[GitHub]()
 
