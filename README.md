@@ -1,36 +1,23 @@
-<div align="center">
-  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  <h1>Hi, I'm Mohammad Shahnawaz 🚀</h1>
-  <p>AI/ML | Full-Stack Developer | Problem Solver</p>
+# 🤠 Hi, I’m M Shahnawaz!
+<p>Building AI agents end to end with full stack, and contributing to open source </p>
 
-<p>
-  Exploring agentic systems and there integration with user applications.
-</p>
-  <a href="https://www.linkedin.com/in/mshahnawaz1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:mshahnawaz1.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</div>
+![Views](https://komarev.com/ghpvc/?username=Mshahnawaz1)
 
----
+## 🧠 About Me
+- 🛠️ Top skills: Python, AI, Machine Learning
+- 🌱 Passionate about building accessible, impactful technology and learning new skills.
+- 🤝 Always open to collaboration!
 
-### 🛠️ Tech Stack
-**Languages & Frameworks:** `Python` • `JavaScript` • `PyTorch` • `React` • `Flask` • `Scikit-Learn`
+## ⭐ Featured Projects
+* **Medai:**(Ongoing) Agentic chatbot for reducing the friction of appointment booking with email notification.[GitHub](https://github.com/mshahnawaz1/Agentic-appointment-booking)
+* **SmartLearn:** RAG-based learning assistant using Gemini + ChromaDB.[GitHub](https://github.com/Mshahnawaz1/Rag-agent-for-document)
+* **Irrigo:** ML-powered smart irrigation system — **Top 25 Hackathon National Finalist** .[GitHub]()
 
-**Tools & DevOps:** `Docker` • `Git` • `ChromaDB` • `LangChain`
+## 🌐 Connect with Me
+- [Twitter/X](https://x.com/Mshahnawaz0)
+- [LinkedIn](https://www.linkedin.com/in/mshahnawaz1/)
 
----
-
-### 🚀 Featured Projects
-* **Medai:** Agentic chatbot for reducing the friction of appointment booking with email notification. 
-* **SmartLearn:** RAG-based learning assistant using Gemini + ChromaDB.
-* **Irrigo:** ML-powered smart irrigation system — **Top 25 Hackathon National Finalist.**
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mshahnawaz1/Mshahnawaz1/output/pacman-contribution-graph-dark.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mshahnawaz1/Mshahnawaz1/output/pacman-contribution-graph.svg" width="100%">
