@@ -3,7 +3,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Mshahnawaz1)
 
-[Resume](https://github.com/user-attachments/files/25899166/7mar-intern.1.pdf) 
+[Resume](https://drive.google.com/file/d/1FN9rX-xfOuUgBKYwol1YE5qRPvERdlBx/view?usp=drive_link) 
 ## 🧠 About Me
 - 🛠️ Top skills: Python, AI, Machine Learning
 - 🌱 Passionate about building accessible, impactful technology and learning new skills.
