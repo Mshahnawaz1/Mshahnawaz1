@@ -1,8 +1,9 @@
 # 🤠 Hi, I’m M Shahnawaz!
-<p>Building AI agents end to end with full stack, and contributing to open source </p>
+<p>Building full stack solution with AI agents, and contributing to open source </p>
 
 ![Views](https://komarev.com/ghpvc/?username=Mshahnawaz1)
 
+[Resume](https://github.com/user-attachments/files/25899166/7mar-intern.1.pdf) 
 ## 🧠 About Me
 - 🛠️ Top skills: Python, AI, Machine Learning
 - 🌱 Passionate about building accessible, impactful technology and learning new skills.
