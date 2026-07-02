@@ -1,26 +1,29 @@
+<div align = "center">
+  
 # 🤠 Hi, I’m M Shahnawaz!
-<p>Building full stack solution with AI agents, and contributing to open source </p>
+<p> Applied AI Engineer building agents, RAG & backend infra </p>
 
-![Views](https://komarev.com/ghpvc/?username=Mshahnawaz1)
+<p> I build AI agents, RAG systems, and backend infrastructure LangGraph · RAG · MCP · FastAPI. </p>
 
-[Resume](https://drive.google.com/file/d/1FN9rX-xfOuUgBKYwol1YE5qRPvERdlBx/view?usp=drive_link) 
-## 🧠 About Me
-- 🛠️ Top skills: Python, AI, Machine Learning
-- 🌱 Passionate about building accessible, impactful technology and learning new skills.
-- 🤝 Always open to collaboration!
+</div>
+
+
+## 🧠 About
+- Building accessible, impactful technology and learning new skills.
+- Ask me about: LangGraph · RAG · MCP · agentic systems · vector search
+- Open source : Contributed to [Metabrainz/Listenbrainz(https://github.com/metabrainz/listenbrainz-server)] | 
+- Find me: [mshahnawaz1.dev@gmail.com](mshahnawaz1.dev@gmail.com) | [Twitter/X](https://x.com/Mshahnawaz0) | [LinkedIn](https://www.linkedin.com/in/mshahnawaz1/) | [Portfolio](https://mshahnawaz1.vercel.app/) | [Resume](https://drive.google.com/file/d/16bfDbyxZNOVxYuF2V6X6KQVNQApXS1fb/view?usp=drive_link)
+
+- ![Views](https://komarev.com/ghpvc/?username=Mshahnawaz1)
+
 
 ## ⭐ Featured Projects
-* **Medai:**(Ongoing) Agentic chatbot for reducing the friction of appointment booking with email notification. [GitHub](https://github.com/mshahnawaz1/Agentic-appointment-booking)
-
-* **Robustness of YOLOv8n model** (Research Work ongoing): Ananlyzing the robustness of YOLOv8n model over different noise conditions for edge devices. [GitHub](https://github.com/Mshahnawaz1/Robustness-of-Yolo8n-Model)
-
-* **SmartLearn:** RAG-based learning assistant using Gemini + ChromaDB.[GitHub](https://github.com/Mshahnawaz1/Rag-agent-for-document)
-
-* **Irrigo:** ML-powered smart irrigation system — **Top 25 Hackathon National Finalist** . [GitHub](https://github.com/Mshahnawaz1/Irrigo-smart-irrigation-system)
-
-## 🌐 Connect with Me
-- [Twitter/X](https://x.com/Mshahnawaz0)
-- [LinkedIn](https://www.linkedin.com/in/mshahnawaz1/)
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **MedAI** *(Ongoing)* | Agentic appointment-booking chatbot with 8+ dynamically invoked tools and email notifications, cutting manual booking time by 60% | FastAPI, LangGraph, MCP, PostgreSQL | [GitHub](https://github.com/mshahnawaz1/Agentic-appointment-booking) |
+| **SmartLearn** | RAG-based learning assistant improving document–query matching accuracy by 80%, deployed on Hugging Face Spaces | FastAPI, ChromaDB, Google Gemini, Docker | [GitHub](https://github.com/Mshahnawaz1/Rag-agent-for-document) |
+| **Robustness of YOLOv8n** *(Research, ongoing)* | Analyzing YOLOv8n model robustness under varying noise conditions for edge devices | Python, YOLOv8, Computer Vision | [GitHub](https://github.com/Mshahnawaz1/Robustness-of-Yolo8n-Model) |
+| **Irrigo** | ML-powered smart irrigation dashboard for real-time monitoring and motor control; reduced water wastage by 80% — 🏆 Top 25 Hackathon National Finalist | Flask, Python, JavaScript, ESP8266 | [GitHub](https://github.com/Mshahnawaz1/Irrigo-smart-irrigation-system) |
 
 ## 📊 GitHub Stats
   <picture>
