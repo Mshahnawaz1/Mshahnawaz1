@@ -26,7 +26,9 @@
 - [MetaBrainz/ListenBrainz](https://github.com/metabrainz/listenbrainz-server)  : 3 [PR](https://github.com/metabrainz/listenbrainz-server/pulls?q=is%3Apr+state%3Aclosed+author%3AMshahnawaz1) **merged**
 - Kubeflow/Ianvs : [Issue](https://github.com/kubeedge/ianvs/issues/353)
 
-
+**Project working on**
+- [Notemem](https://notemem.mshahnawaz.me/) -- A notepad shared with your friends and agents.
+- [Imagory](https://github.com/Mshahnawaz1/Imagory) -- A organizing tool for google takeout images and local images with very fast and smooth experience on image preview. 
 
 ## ⭐ Featured Projects
 
